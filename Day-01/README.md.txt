@@ -18,3 +18,11 @@ Build and deploy an AI assistant similar to ChatGPT.
 - FastAPI
 - Docker
 - Git/GitHub
+
+
+
+## Day 1
+
+- Set up Git
+- Created GitHub repository
+- Learned basic Git workflow
